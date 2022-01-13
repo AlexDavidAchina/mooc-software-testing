@@ -17,7 +17,7 @@ public class GettingStartedTest {
         int result = new GettingStarted().addFive(0);
         Assertions.assertEquals(5,result);
     }
-
+//Cuando tengas ganas de rendirte, continua. El triunfo ama a los implacables. 
     @Test
     public void addFiveToMinusTwenty() {
         int result = new GettingStarted().addFive(-20);
